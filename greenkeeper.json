@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "12-popQuiz/Solved/package.json",
+        "14-Top5000Code/Solved/package.json",
+        "15-TwoTables/Solved/package.json"
+      ]
+    }
+  }
+}

@@ -1,5 +1,7 @@
 # Sql-MySql-3-of-3
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/parallelam/Sql-MySql-3-of-3.svg)](https://greenkeeper.io/)
+
 Activities, exercises and self-education regarding database management and navigation with SQL and MySQL.
 
 
